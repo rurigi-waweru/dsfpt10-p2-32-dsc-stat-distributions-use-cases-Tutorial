@@ -10,9 +10,9 @@ There are an enormous amount of distributions out there, but you'll see about a 
 
 You will be able to:
 
-* Define statistical distributions
-* Differentiate between discrete and continuous distributions
-* List the common distributions and their use cases
+* Define `statistical distributions`
+* Differentiate between `discrete` and `continuous` distributions
+* List the `common` distributions and their `use` cases
 
 ## What is a Statistical Distribution?
 
